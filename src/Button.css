@@ -1,0 +1,15 @@
+.Button {
+  text-align: center;
+  width: 2em;
+  height: 2em;
+  line-height: 2em;
+}
+
+.Button:hover { 
+  cursor: pointer;
+}
+
+.Button--tall {
+  height: 4em;
+  line-height: 4em;
+}

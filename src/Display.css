@@ -1,0 +1,13 @@
+.Display {
+  width: 100%;
+  height: 2em;
+  text-align: right;
+  line-height: 2em;
+  border-width: thin;
+  border-style: solid;
+  margin-bottom: 0.1em;
+}
+
+.Display__inner {
+  margin: 0 0.5em;
+}
